@@ -1,0 +1,4 @@
+python-can>=4.3.0
+cantools>=39.0.0
+PySide6-Essentials>=6.6.0
+pyinstaller>=6.3.0
